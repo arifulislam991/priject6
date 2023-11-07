@@ -1,0 +1,20 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+.lader{
+    display: flex;
+    justify-content: space-around;
+}
+.chamcha{
+    width: 45%;
+    background-color: #55E6C1;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.chamcha2{
+    width: 50%;
+    background-color: #FC427B;
+    padding: 10px;
+    box-sizing: border-box;
+}
